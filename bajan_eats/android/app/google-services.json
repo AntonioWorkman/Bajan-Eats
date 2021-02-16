@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50292618672",
+    "firebase_url": "https://bajan-eats-21.firebaseio.com",
+    "project_id": "bajan-eats-21",
+    "storage_bucket": "bajan-eats-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50292618672:android:8baa44a38ab14f1d599275",
+        "android_client_info": {
+          "package_name": "com.uwiswen.bajaneats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50292618672-7coof24f0i0uc7s7o16idr3393a0i1qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuAUSvYQa9d-JmD2NY5Wwtj8rCNf2y54E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50292618672-7coof24f0i0uc7s7o16idr3393a0i1qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
